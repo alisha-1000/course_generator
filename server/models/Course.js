@@ -12,7 +12,7 @@ const courseSchema = new mongoose.Schema(
       trim: true,
     },
     creator: {
-      type: String, // Auth0 `sub` value
+      type: String, 
       required: true,
       index: true,
     },
