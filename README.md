@@ -1,7 +1,7 @@
 # 🎓 AI Course Generator
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://course-generator-nkfw.vercel.app/)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 
@@ -106,7 +106,7 @@
 
 ## 📄 License
 
-Distributed under the **ISC License**. See `server/package.json` for details.
+Distributed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
