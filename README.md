@@ -1,4 +1,4 @@
-# 🎓 AI Course Generator
+#  AI Course Generator
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://course-generator-nkfw.vercel.app/)
 [![Deployed on Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge&logo=render)](https://course-generator-3.onrender.com/)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 **Course Generator** is an intelligent full-stack platform designed to democratize education. By simply entering a topic, users can generate a complete 5-8 module course featuring:
 - **Detailed Lessons**: Structured educational content with clear objectives.
@@ -21,18 +21,18 @@
 - **Interactive Assessments**: Knowledge-check quizzes (MCQs) for every lesson.
 - **Progressive Learning**: Content that builds in complexity.
 
-## ✨ Key Features
+##  Key Features
 
-- **🤖 Autonomous Content Creation**: Powered by **Groq (Llama 3.3)** for high-speed, high-quality educational drafting.
-- **🎙️ Hinglish Audio Support**: Bridges the language gap by translating content into Hinglish (via **Gemini 1.5**) and converting it to speech using **Google Cloud TTS**.
-- **📺 Smart Video Discovery**: Automatically finds and embeds relevant YouTube tutorials using the YouTube Data API.
-- **🔒 Enterprise-Grade Auth**: Secure login and user profiles handled by **Auth0**.
-- **🎨 Modern Dashboard**: Sleek, responsive UI built with **Chakra UI** and **Framer Motion**.
-- **📑 Portable Learning**: Export courses to **PDF** or view them in an interactive lesson player.
+- ** Autonomous Content Creation**: Powered by **Groq (Llama 3.3)** for high-speed, high-quality educational drafting.
+- ** Hinglish Audio Support**: Bridges the language gap by translating content into Hinglish (via **Gemini 1.5**) and converting it to speech using **Google Cloud TTS**.
+- ** Smart Video Discovery**: Automatically finds and embeds relevant YouTube tutorials using the YouTube Data API.
+- ** Enterprise-Grade Auth**: Secure login and user profiles handled by **Auth0**.
+- ** Modern Dashboard**: Sleek, responsive UI built with **Chakra UI** and **Framer Motion**.
+- ** Portable Learning**: Export courses to **PDF** or view them in an interactive lesson player.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: React 18 (Vite)
