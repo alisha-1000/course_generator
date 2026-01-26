@@ -1,6 +1,7 @@
 # 🎓 AI Course Generator
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://course-generator-nkfw.vercel.app/)
+[![Deployed on Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge&logo=render)](https://course-generator-3.onrender.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
@@ -8,6 +9,7 @@
 > **Instantly generate comprehensive, interactive courses on any topic using AI.**
 
 **Live Demo:** [https://course-generator-nkfw.vercel.app/](https://course-generator-nkfw.vercel.app/)
+**Backend API:** [https://course-generator-3.onrender.com/](https://course-generator-3.onrender.com/)
 
 ---
 
